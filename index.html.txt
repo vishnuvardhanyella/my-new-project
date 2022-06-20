@@ -1,1 +1,9 @@
-this is my new project looks interesting
+
+<html>
+   <head>
+      <title>my first web project</title>
+   </head>
+  <body>
+       <h1>This is My First Web Project Looks Interesting</h1>
+   </body>
+</html>
